@@ -1,0 +1,14 @@
+/Users/mayakandil/operating sytems/Virtual_disk/obj/Debug/net9.0/Virtual_disk.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayakandil/operating sytems/Virtual_disk/obj/Debug/net9.0/Virtual_disk.AssemblyInfoInputs.cache
+/Users/mayakandil/operating sytems/Virtual_disk/obj/Debug/net9.0/Virtual_disk.AssemblyInfo.cs
+/Users/mayakandil/operating sytems/Virtual_disk/obj/Debug/net9.0/Virtual_disk.csproj.CoreCompileInputs.cache
+/Users/mayakandil/operating sytems/Virtual_disk/bin/Debug/net9.0/Virtual_disk
+/Users/mayakandil/operating sytems/Virtual_disk/bin/Debug/net9.0/Virtual_disk.deps.json
+/Users/mayakandil/operating sytems/Virtual_disk/bin/Debug/net9.0/Virtual_disk.runtimeconfig.json
+/Users/mayakandil/operating sytems/Virtual_disk/bin/Debug/net9.0/Virtual_disk.dll
+/Users/mayakandil/operating sytems/Virtual_disk/bin/Debug/net9.0/Virtual_disk.pdb
+/Users/mayakandil/operating sytems/Virtual_disk/obj/Debug/net9.0/Virtual_disk.dll
+/Users/mayakandil/operating sytems/Virtual_disk/obj/Debug/net9.0/refint/Virtual_disk.dll
+/Users/mayakandil/operating sytems/Virtual_disk/obj/Debug/net9.0/Virtual_disk.pdb
+/Users/mayakandil/operating sytems/Virtual_disk/obj/Debug/net9.0/Virtual_disk.genruntimeconfig.cache
+/Users/mayakandil/operating sytems/Virtual_disk/obj/Debug/net9.0/ref/Virtual_disk.dll

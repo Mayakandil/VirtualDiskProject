@@ -1,0 +1,14 @@
+/Users/mayakandil/operating sytems/uno/bin/Debug/net9.0/uno
+/Users/mayakandil/operating sytems/uno/bin/Debug/net9.0/uno.deps.json
+/Users/mayakandil/operating sytems/uno/bin/Debug/net9.0/uno.runtimeconfig.json
+/Users/mayakandil/operating sytems/uno/bin/Debug/net9.0/uno.dll
+/Users/mayakandil/operating sytems/uno/bin/Debug/net9.0/uno.pdb
+/Users/mayakandil/operating sytems/uno/obj/Debug/net9.0/uno.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mayakandil/operating sytems/uno/obj/Debug/net9.0/uno.AssemblyInfoInputs.cache
+/Users/mayakandil/operating sytems/uno/obj/Debug/net9.0/uno.AssemblyInfo.cs
+/Users/mayakandil/operating sytems/uno/obj/Debug/net9.0/uno.csproj.CoreCompileInputs.cache
+/Users/mayakandil/operating sytems/uno/obj/Debug/net9.0/uno.dll
+/Users/mayakandil/operating sytems/uno/obj/Debug/net9.0/refint/uno.dll
+/Users/mayakandil/operating sytems/uno/obj/Debug/net9.0/uno.pdb
+/Users/mayakandil/operating sytems/uno/obj/Debug/net9.0/uno.genruntimeconfig.cache
+/Users/mayakandil/operating sytems/uno/obj/Debug/net9.0/ref/uno.dll
